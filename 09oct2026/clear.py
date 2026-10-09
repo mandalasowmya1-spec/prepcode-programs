@@ -1,2 +1,3 @@
 a = [1,2,3]
-a.
+a.clear()
+print(a)
